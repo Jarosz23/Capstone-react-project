@@ -1,3 +1,3 @@
 # Capstone-react-project
 
-First click to pick some link in header
+First click to PIC SOME link in header
